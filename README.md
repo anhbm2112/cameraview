@@ -1,5 +1,7 @@
 # CameraView
 
+*This project was made thanks to google's cameraview project.*
+
 *This is a preview release. The API is subject to change.*
 
 This is not an official Google product.
