@@ -28,7 +28,7 @@ Requires API Level 9. The library uses Camera 1 API on API Level 9-20 and Camera
 ## Usage
 
 ```xml
-<CameraView
+<com.gmerwan.cameraview.CameraView
     android:id="@+id/camera"
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
