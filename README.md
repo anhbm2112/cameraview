@@ -1,6 +1,6 @@
 # CameraView
 
-*This project was made thanks to google's cameraview project.*
+*This project was made using google's cameraview project. I only made some mods to resolve a problem. Still wating for official fix.*
 
 *This is a preview release. The API is subject to change.*
 
