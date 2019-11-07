@@ -1,3 +1,9 @@
+# Deprecated
+
+CameraView is deprecated. No more development will be taking place.
+
+Use [Jetpack CameraX](https://developer.android.com/jetpack/androidx/releases/camerax) instead.
+
 # CameraView
 
 *This project was made using google's cameraview project. I only made some mods to resolve a problem. Still wating for official fix.*
